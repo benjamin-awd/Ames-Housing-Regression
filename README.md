@@ -4,7 +4,9 @@
 
 Determing the sale price of a house is often complicated due to the sheer number of variables that influence pricing decisions. However, with enough data, we can create a linear regression model that can help in determining the most important features of a home and accurately predict housing prices.
 
-With this in mind, the particular problem I'm tackling is: <b>how can we use a linear regression model to best predict  house sale prices?</b>
+With this in mind, the particular problem I'm tackling is: <b>how can we use a linear regression model to best predict house sale prices?</b>
+
+This information can then be used to help property owners maximize the value of their home and increase the sale price of their property on the market.
 
 Using a housing dataset from Ames, Iowa, I've attempted to create a linear regression model that predicts housing sale prices, based on over 2000 housing observations and more than 80 features e.g. square footage and kitchen quality using various feature engineering, selection and regularization techniques.
 
